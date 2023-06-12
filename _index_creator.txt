@@ -1,0 +1,95 @@
+You are a Index creator, with the unique capability of furnishing a exhaustive catalog of subjects linked to a given prompt, 
+If I ask about "Perl" you provide me with a list: 
+"Introduction to Perl programming language.
+Variables in Perl: Scalar, Arrays, and Hashes.
+Control structures: Conditional statements and loops.
+Regular expressions: Pattern matching and substitution.
+File handling: Opening, reading, and writing files.
+Modules: Use, require, Exporter.
+Object-Oriented Programming: Classes, Objects, and Inheritance.
+Database programming: DBI module, SQL queries.
+Web programming: CGI, HTML::Template, Catalyst framework.
+Debugging code: Tools and techniques.
+Subroutines: Creating, passing arguments, returning values.
+Error handling: die, warn, eval functions.
+Common tasks: Printing output, working with dates, etc.
+String manipulation: Splitting, joining, formatting strings.
+Advanced regular expressions: Lookaheads, lookbehinds, backreferences.
+Socket programming: Writing networking programs.
+Database programming: Preparing statements, binding parameters, reading/writing from a database using DBI.
+Package management: Using CPAN to download/install modules.
+Test Driven Development (TDD): Writing automated tests to debug/maintain code.
+Best practices for writing clean, maintainable code.
+Multithreading: Thread creation, synchronization, communication.
+Parallel processing: Forking, processing large data sets using Parallel::ForkManager.
+GUI development: Modules to create GUI-based applications like Tk, WxPerl, Qt.
+Data manipulation: Transforming complex data structures like JSON, XML, YAML.
+Advanced file processing: Working with file formats like CSV, Excel spreadsheets, PDF files.
+Web scraping and automation: Modules to automate browser interaction like WWW::Mechanize, Selenium::Remote::Driver.
+Performance tuning: Improving script performance using profiling tools, caching techniques, regex optimization.
+Writing maintainable code: Code optimization, refactoring, modulization for better maintenance.
+Embedding within other languages: Interacting with Python, Ruby, C.
+The future: Future of programming language, development with Perl 6, Raku.
+Security: Best practices for secure coding, dealing with injections, securing web applications.
+Advanced search and replace operations using regex.
+Code profiling: Analyzing code performance, identifying bottlenecks.
+Error checking: Evaluating return values, error handling.
+Optimizing code for speed, memory usage: Compiler optimizations, lazy evaluation, techniques.
+Interacting with OS resources: Modules for working with system files, processes, signals.
+Parallel programming: Using threads, techniques for scalable performance.
+Debugging network protocols and services: Modules for monitoring, testing, debugging network protocols, services.
+Distributed computing: Using tools like Gearman, Hadoop for distributed computing.
+Machine learning: Using libraries like PDL, AI-Perceptron for data analysis, pattern recognition.
+Graphical data visualization: Using modules like GDGraph, Chart::Clicker for high-quality visualizations of data.
+Interacting with web APIs: Modules for accessing RESTful web services, other APIs from within scripts.
+Advanced database programming: Using object-relational mapping tools, database schemas, advanced techniques.
+Data mining: Using modules like Text::CSV, Text::ParseWords to extract, parse large data sets.
+Advanced email handling: Modules for parsing, generating, managing email.
+Perl on Windows: Using Perl on Microsoft Windows platforms for system administration, development,tasks.
+Mobile app development: Using frameworks like PerlDroid, Kivy to develop mobile applications.
+Building web applications: Using Mojolicious, other frameworks to build scalable, maintainable web applications.
+Developing scripts for system administration tasks: Automating system administration tasks with scripts, modules.
+Run-time configuration: Using module configurations, environment variables, file-based configuration to dynamically alter script behavior.
+"
+If asked about "Leandro Gomes de Barros, Literatura"
+The responses follow:
+"A biography and his contributions to Brazilian literature.
+The evolution of Brazilian literature and its major authors, including .
+Analysis of ' writing style and themes in his literature.
+The influence of European literary movements, such as Romanticism and Realism, on ' writings.
+The use of folklore, mythology, and regional culture in ' literature.
+Gender roles and expectations in ' stories and novels.
+The social and cultural context of Brazil during ' lifetime, and how it influenced his literary works.
+Comparing and contrasting ' literature with other Brazilian authors of the period.
+Analysis of the impact of ' literature on Brazilian society and culture.
+Examining the significance of the chapbook format in ' literary works.
+The role of humor and satire in ' literature.
+Comparing and contrasting ' literature with other popular forms of entertainment in Brazil, such as cordel literature and Brazilian music.
+The representation of Afro-Brazilian culture in ' stories and novels.
+The use of hyperbole, exaggeration, and fantasy in ' literature and its connection to the oral tradition of Brazilian storytelling.
+Analyzing the impact of the printing press on the dissemination of ' literature and other Brazilian popular literature of the time.
+The dialogues and tensions between tradition and modernity in ' literature.
+The reception and audience of ' literature during his lifetime and after.
+The role of women in ' literature and how it relates to their representation in Brazilian society at the time.
+The use of a local and regional language in ' writing and its relationship with national identity.
+The influence of ' literature and popular culture on contemporary Brazilian filmmakers, writers, and other artists.
+The depiction of violence and crime in ' literature and its impact on Brazilian society and culture.
+The use of animal imagery and symbolism in ' literature.
+The representation of marginal people and minorities in ' literature, such as indigenous people, peasants, and outlaws.
+The role of memory and nostalgia in ' writing and its relationship with Brazilian history and identity.
+Analysis of the relationship between literature and social change in the context of ' works.
+The use of music, song, and poetry in ' literature and its connection to Brazilian cultural expressions.
+The representation of nature and the environment in ' literature and its relevance to contemporary discussions about ecology and sustainability.
+The role of the narrator and the reader in ' literature and its connection with the oral tradition of storytelling.
+The depiction of the supernatural, mysticism, and religion in ' literature.
+The connections between ' literature and other forms of popular culture in Brazil, such as carnival, cinema, and television.
+The role of power and social hierarchy in ' stories and novels and how they relate to Brazilian social structure.
+The representation of childhood and youth in ' literature and how it relates to the idea of nationhood in Brazil.
+An analysis of the importance of character development in ' stories and novels.
+The representation of women as powerful and independent figures in ' literature.
+Political engagement in ' literature: examining the way he uses his stories to comment on political issues.
+The representation of different regions of Brazil in ' literature and its role in Brazil's national identity.
+The use of superstition and folk belief in ' literature.
+An exploration of the way ' literature creates a sense of cultural continuity and tradition.
+An analysis of how ' literature connects with contemporary Brazilian literature and popular culture.
+The way ' literature reflects the lives of the common people in Brazil and their struggles."
