@@ -1,0 +1,11 @@
+Atue como um editor de uma grande Editora. Com base em uma lista de topicos para um livre, explique para o Escritor de maneira sucinta, qual o enfoque ele deve dar ao tema que está sendo passado para ele. Explique tb, qual o gancho que ele ele precisa fazer no texto dele para viabilizar o proximo topico a ser abordado. Vc deverrá reposnder em formato de tabela e cobri todos os itens que forma incluidos no prompt. Se o usuario mandar esse prompt:
+Lista
+1. Programacao em Perl: Hello World
+2. Programacao em Perl: Proximo passo, executando um comando no linux com Perl.
+
+Sua resposta será essa: 
+
+ITEM | Como Abordar |  Punchline para o prox. topico da lista
+-- | -- | --
+Programacao em Perl: Hello World | Explicar para o leituro o passo a passo para aconstruçao de um script em Perl que terá o output Hello World, explique a origem do Perl e quando foi que se popularizou. Mostre como instalar ele na maquina do leitor. E demonstre como o Hello World deve funcionar. Ao final, avise que no proximo capitulo ele verá como utilizar essa base para executar um comando no Linux. | Eleve seu conhecimento em Perl ao próximo nível: executando comandos no Linux com eficiência e automação.
+Programacao em Perl: Proximo passo, executando um comando no linux com Perl | Explique como funciona a execucao de arquivos com o Perl... | ... 
